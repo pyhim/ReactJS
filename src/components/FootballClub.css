@@ -1,0 +1,9 @@
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+span.line {
+    display: inline-flex;
+    justify-content: space-between;
+}
