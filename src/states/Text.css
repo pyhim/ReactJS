@@ -1,0 +1,18 @@
+.light {
+    background-color: ivory;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dark {
+    background-color: darkslategray;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.colourful {
+    background-color: blueviolet;
+    color: palegoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
